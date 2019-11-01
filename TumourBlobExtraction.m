@@ -1,7 +1,5 @@
-function [outputArg1,outputArg2] = TumourBlobExtraction(inputArg1,inputArg2)
+function imageOutput = TumourBlobExtraction(imageInput)
 %TUMOURBLOBEXTRACTION Summary of this function goes here
 %   Detailed explanation goes here
-outputArg1 = inputArg1;
-outputArg2 = inputArg2;
 end
 
